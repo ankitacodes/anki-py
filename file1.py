@@ -1,6 +1,9 @@
-myfile = open('Illiad.txt','r')
+print (2+2)
+print('hello, world')
 
-line = myfile.readline()
+print(type(2))
+type('hello world')
 
-while line:
-    print(line)
+
+
+
